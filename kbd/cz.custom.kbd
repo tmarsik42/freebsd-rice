@@ -15,7 +15,7 @@
   009   225    '8'    nop    nop    '*'    drin   nop    nop     O
   010   237    '9'    nop    nop    '{'    ddac   nop    nop     O
   011   233    '0'    nop    nop    '}'    ddot   nop    nop     O
-  012   '='    '%'    us     us     '°'    dacu   us     us      O
+  012   '='    '%'    us     us     nop    dacu   us     us      O
   013   '''    nop    nop    nop    '^'    dbre   nop    nop     O
   014   bs     del    del    del    bs     bs     del    del     O
   015   ht     btab   nop    nop    ht     btab   nop    nop     O
