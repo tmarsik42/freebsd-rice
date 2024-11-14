@@ -6,15 +6,15 @@
   000   nop    nop    nop    nop    nop    nop    nop    nop     O
   001   esc    esc    esc    esc    esc    esc    debug  esc     O
   002   '+'    '1'    nop    nop    '`'    nop    nop    nop     O
-  003   'ě'    '2'    nul    nul    '@'    nul    nul    nul     O
-  004   'š'    '3'    nop    nop    '#'    nop    nop    nop     O
-  005   'č'    '4'    nop    nop    '$'    nop    nop    nop     O
-  006   'ř'    '5'    nop    nop    '~'    duml   nop    nop     O
-  007   'ž'    '6'    rs     rs     '^'    dcir   rs     rs      O
-  008   'ý'    '7'    nop    nop    '&'    173    nop    nop     O
-  009   'á'    '8'    nop    nop    '*'    drin   nop    nop     O
-  010   'í'    '9'    nop    nop    '{'    ddac   nop    nop     O
-  011   'é'    '0'    nop    nop    '}'    ddot   nop    nop     O
+  003   236    '2'    nul    nul    '@'    nul    nul    nul     O
+  004   185    '3'    nop    nop    '#'    nop    nop    nop     O
+  005   232    '4'    nop    nop    '$'    nop    nop    nop     O
+  006   248    '5'    nop    nop    '~'    duml   nop    nop     O
+  007   190    '6'    rs     rs     '^'    dcir   rs     rs      O
+  008   253    '7'    nop    nop    '&'    173    nop    nop     O
+  009   225    '8'    nop    nop    '*'    drin   nop    nop     O
+  010   237    '9'    nop    nop    '{'    ddac   nop    nop     O
+  011   233    '0'    nop    nop    '}'    ddot   nop    nop     O
   012   '='    '%'    us     us     '°'    dacu   us     us      O
   013   '''    'ˇ'    nop    nop    '^'    dbre   nop    nop     O
   014   bs     del    del    del    bs     bs     del    del     O
