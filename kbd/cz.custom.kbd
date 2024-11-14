@@ -47,7 +47,7 @@
   041   '`'    '~'    nop    nop    dogo   dced   nop    nop     O
   042   lshift lshift lshift lshift lshift lshift lshift lshift  O
   043   '\'    '|'    fs     fs     dsla   dsla   fs     fs      O
-  044   'z'    'Z'    sub    sub    190    174    sub    sub     C
+  044   'y'    'Y'    sub    sub    190    174    sub    sub     C
   045   'x'    'X'    can    can    'x'    'X'    can    can     C
   046   'c'    'C'    etx    etx    232    200    etx    etx     C
   047   'v'    'V'    syn    syn    'v'    'V'    syn    syn     C
